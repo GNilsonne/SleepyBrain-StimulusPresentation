@@ -2,8 +2,6 @@
 # This experiment presents IAPS pictures preceded by 
 # instructions to upregulate or downregulate the 
 # emotional response to the picture.
-# This version of the script is for use in the behavioral
-# lab and has no scanner sync.
 #
 # Adapted by Gustav Nilsonne 120625
 # Original script by Armita Golkar
