@@ -1,0 +1,134 @@
+array{
+# Neutral faces, female
+bitmap { filename = "AF01NES.jpg"; height = 600; scale_factor = scale_to_height;} P1;
+bitmap { filename = "AF03NES.jpg"; height = 600; scale_factor = scale_to_height;} P2;
+bitmap { filename = "BF04NES.jpg"; height = 600; scale_factor = scale_to_height;} P3;
+bitmap { filename = "AF05NES.jpg"; height = 600; scale_factor = scale_to_height;} P4;
+bitmap { filename = "BF07NES.jpg"; height = 600; scale_factor = scale_to_height;} P5;
+bitmap { filename = "AF09NES.jpg"; height = 600; scale_factor = scale_to_height;} P6;
+bitmap { filename = "BF11NES.jpg"; height = 600; scale_factor = scale_to_height;} P7;
+bitmap { filename = "AF14NES.jpg"; height = 600; scale_factor = scale_to_height;} P8;
+bitmap { filename = "AF17NES.jpg"; height = 600; scale_factor = scale_to_height;} P9;
+bitmap { filename = "AF18NES.jpg"; height = 600; scale_factor = scale_to_height;} P10;
+bitmap { filename = "AF20NES.jpg"; height = 600; scale_factor = scale_to_height;} P11;
+bitmap { filename = "AF21NES.jpg"; height = 600; scale_factor = scale_to_height;} P12;
+bitmap { filename = "BF22NES.jpg"; height = 600; scale_factor = scale_to_height;} P13;
+bitmap { filename = "AF23NES.jpg"; height = 600; scale_factor = scale_to_height;} P14;
+bitmap { filename = "AF25NES.jpg"; height = 600; scale_factor = scale_to_height;} P15;
+bitmap { filename = "AF26NES.jpg"; height = 600; scale_factor = scale_to_height;} P16;
+bitmap { filename = "BF28NES.jpg"; height = 600; scale_factor = scale_to_height;} P17;
+bitmap { filename = "BF29NES.jpg"; height = 600; scale_factor = scale_to_height;} P18;
+bitmap { filename = "AF31NES.jpg"; height = 600; scale_factor = scale_to_height;} P19;
+bitmap { filename = "AF32NES.jpg"; height = 600; scale_factor = scale_to_height;} P20;
+
+# Neutral faces, male
+bitmap { filename = "AM01NES.jpg"; height = 600; scale_factor = scale_to_height;} P21;
+bitmap { filename = "BM03NES.jpg"; height = 600; scale_factor = scale_to_height;} P22;
+bitmap { filename = "AM04NES.jpg"; height = 600; scale_factor = scale_to_height;} P23;
+bitmap { filename = "BM05NES.jpg"; height = 600; scale_factor = scale_to_height;} P24;
+bitmap { filename = "BM06NES.jpg"; height = 600; scale_factor = scale_to_height;} P25;
+bitmap { filename = "AM07NES.jpg"; height = 600; scale_factor = scale_to_height;} P26;
+bitmap { filename = "BM08NES.jpg"; height = 600; scale_factor = scale_to_height;} P27;
+bitmap { filename = "AM09NES.jpg"; height = 600; scale_factor = scale_to_height;} P28;
+bitmap { filename = "AM10NES.jpg"; height = 600; scale_factor = scale_to_height;} P29;
+bitmap { filename = "AM11NES.jpg"; height = 600; scale_factor = scale_to_height;} P30;
+bitmap { filename = "BM12NES.jpg"; height = 600; scale_factor = scale_to_height;} P31;
+bitmap { filename = "AM14NES.jpg"; height = 600; scale_factor = scale_to_height;} P32;
+bitmap { filename = "AM21NES.jpg"; height = 600; scale_factor = scale_to_height;} P33;
+bitmap { filename = "AM22NES.jpg"; height = 600; scale_factor = scale_to_height;} P34;
+bitmap { filename = "AM23NES.jpg"; height = 600; scale_factor = scale_to_height;} P35;
+bitmap { filename = "BM24NES.jpg"; height = 600; scale_factor = scale_to_height;} P36;
+bitmap { filename = "BM25NES.jpg"; height = 600; scale_factor = scale_to_height;} P37;
+bitmap { filename = "BM26NES.jpg"; height = 600; scale_factor = scale_to_height;} P38;
+bitmap { filename = "AM28NES.jpg"; height = 600; scale_factor = scale_to_height;} P39;
+bitmap { filename = "AM35NES.jpg"; height = 600; scale_factor = scale_to_height;} P40;
+
+# Happy faces, female
+bitmap { filename = "AF01HAS.jpg"; height = 600; scale_factor = scale_to_height;} P41;
+bitmap { filename = "AF03HAS.jpg"; height = 600; scale_factor = scale_to_height;} P42;
+bitmap { filename = "BF04HAS.jpg"; height = 600; scale_factor = scale_to_height;} P43;
+bitmap { filename = "AF05HAS.jpg"; height = 600; scale_factor = scale_to_height;} P44;
+bitmap { filename = "BF07HAS.jpg"; height = 600; scale_factor = scale_to_height;} P45;
+bitmap { filename = "AF09HAS.jpg"; height = 600; scale_factor = scale_to_height;} P46;
+bitmap { filename = "BF11HAS.jpg"; height = 600; scale_factor = scale_to_height;} P47;
+bitmap { filename = "AF14HAS.jpg"; height = 600; scale_factor = scale_to_height;} P48;
+bitmap { filename = "AF17HAS.jpg"; height = 600; scale_factor = scale_to_height;} P49;
+bitmap { filename = "AF18HAS.jpg"; height = 600; scale_factor = scale_to_height;} P50;
+bitmap { filename = "AF20HAS.jpg"; height = 600; scale_factor = scale_to_height;} P51;
+bitmap { filename = "AF21HAS.jpg"; height = 600; scale_factor = scale_to_height;} P52;
+bitmap { filename = "BF22HAS.jpg"; height = 600; scale_factor = scale_to_height;} P53;
+bitmap { filename = "AF23HAS.jpg"; height = 600; scale_factor = scale_to_height;} P54;
+bitmap { filename = "AF25HAS.jpg"; height = 600; scale_factor = scale_to_height;} P55;
+bitmap { filename = "AF26HAS.jpg"; height = 600; scale_factor = scale_to_height;} P56;
+bitmap { filename = "BF28HAS.jpg"; height = 600; scale_factor = scale_to_height;} P57;
+bitmap { filename = "BF29HAS.jpg"; height = 600; scale_factor = scale_to_height;} P58;
+bitmap { filename = "AF31HAS.jpg"; height = 600; scale_factor = scale_to_height;} P59;
+bitmap { filename = "AF32HAS.jpg"; height = 600; scale_factor = scale_to_height;} P60;
+
+# Happy faces, male
+bitmap { filename = "AM01HAS.jpg"; height = 600; scale_factor = scale_to_height;} P61;
+bitmap { filename = "BM03HAS.jpg"; height = 600; scale_factor = scale_to_height;} P62;
+bitmap { filename = "AM04HAS.jpg"; height = 600; scale_factor = scale_to_height;} P63;
+bitmap { filename = "BM05HAS.jpg"; height = 600; scale_factor = scale_to_height;} P64;
+bitmap { filename = "BM06HAS.jpg"; height = 600; scale_factor = scale_to_height;} P65;
+bitmap { filename = "BM07HAS.jpg"; height = 600; scale_factor = scale_to_height;} P66;
+bitmap { filename = "BM08HAS.jpg"; height = 600; scale_factor = scale_to_height;} P67;
+bitmap { filename = "AM09HAS.jpg"; height = 600; scale_factor = scale_to_height;} P68;
+bitmap { filename = "AM10HAS.jpg"; height = 600; scale_factor = scale_to_height;} P69;
+bitmap { filename = "BM11HAS.jpg"; height = 600; scale_factor = scale_to_height;} P70;
+bitmap { filename = "BM12HAS.jpg"; height = 600; scale_factor = scale_to_height;} P71;
+bitmap { filename = "AM14HAS.jpg"; height = 600; scale_factor = scale_to_height;} P72;
+bitmap { filename = "AM21HAS.jpg"; height = 600; scale_factor = scale_to_height;} P73;
+bitmap { filename = "AM22HAS.jpg"; height = 600; scale_factor = scale_to_height;} P74;
+bitmap { filename = "AM23HAS.jpg"; height = 600; scale_factor = scale_to_height;} P75;
+bitmap { filename = "BM24HAS.jpg"; height = 600; scale_factor = scale_to_height;} P76;
+bitmap { filename = "BM25HAS.jpg"; height = 600; scale_factor = scale_to_height;} P77;
+bitmap { filename = "BM26HAS.jpg"; height = 600; scale_factor = scale_to_height;} P78;
+bitmap { filename = "BM28HAS.jpg"; height = 600; scale_factor = scale_to_height;} P79;
+bitmap { filename = "BM35HAS.jpg"; height = 600; scale_factor = scale_to_height;} P80;
+
+# Angry faces, female
+bitmap { filename = "AF01ANS.jpg"; height = 600; scale_factor = scale_to_height;} P81;
+bitmap { filename = "AF03ANS.jpg"; height = 600; scale_factor = scale_to_height;} P82;
+bitmap { filename = "BF04ANS.jpg"; height = 600; scale_factor = scale_to_height;} P83;
+bitmap { filename = "AF05ANS.jpg"; height = 600; scale_factor = scale_to_height;} P84;
+bitmap { filename = "BF07ANS.jpg"; height = 600; scale_factor = scale_to_height;} P85;
+bitmap { filename = "AF09ANS.jpg"; height = 600; scale_factor = scale_to_height;} P86;
+bitmap { filename = "BF11ANS.jpg"; height = 600; scale_factor = scale_to_height;} P87;
+bitmap { filename = "AF14ANS.jpg"; height = 600; scale_factor = scale_to_height;} P88;
+bitmap { filename = "AF17ANS.jpg"; height = 600; scale_factor = scale_to_height;} P89;
+bitmap { filename = "AF18ANS.jpg"; height = 600; scale_factor = scale_to_height;} P90;
+bitmap { filename = "AF20ANS.jpg"; height = 600; scale_factor = scale_to_height;} P91;
+bitmap { filename = "AF21ANS.jpg"; height = 600; scale_factor = scale_to_height;} P92;
+bitmap { filename = "BF22ANS.jpg"; height = 600; scale_factor = scale_to_height;} P93;
+bitmap { filename = "AF23ANS.jpg"; height = 600; scale_factor = scale_to_height;} P94;
+bitmap { filename = "AF25ANS.jpg"; height = 600; scale_factor = scale_to_height;} P95;
+bitmap { filename = "AF26ANS.jpg"; height = 600; scale_factor = scale_to_height;} P96;
+bitmap { filename = "BF28ANS.jpg"; height = 600; scale_factor = scale_to_height;} P97;
+bitmap { filename = "BF29ANS.jpg"; height = 600; scale_factor = scale_to_height;} P98;
+bitmap { filename = "AF31ANS.jpg"; height = 600; scale_factor = scale_to_height;} P99;
+bitmap { filename = "AF32ANS.jpg"; height = 600; scale_factor = scale_to_height;} P100;
+
+# Angry faces, male
+bitmap { filename = "AM01ANS.jpg"; height = 600; scale_factor = scale_to_height;} P101;
+bitmap { filename = "BM03ANS.jpg"; height = 600; scale_factor = scale_to_height;} P102;
+bitmap { filename = "AM04ANS.jpg"; height = 600; scale_factor = scale_to_height;} P103;
+bitmap { filename = "BM05ANS.jpg"; height = 600; scale_factor = scale_to_height;} P104;
+bitmap { filename = "BM06ANS.jpg"; height = 600; scale_factor = scale_to_height;} P105;
+bitmap { filename = "AM07ANS.jpg"; height = 600; scale_factor = scale_to_height;} P106;
+bitmap { filename = "BM08ANS.jpg"; height = 600; scale_factor = scale_to_height;} P107;
+bitmap { filename = "AM09ANS.jpg"; height = 600; scale_factor = scale_to_height;} P108;
+bitmap { filename = "AM10ANS.jpg"; height = 600; scale_factor = scale_to_height;} P109;
+bitmap { filename = "AM11ANS.jpg"; height = 600; scale_factor = scale_to_height;} P110;
+bitmap { filename = "BM12ANS.jpg"; height = 600; scale_factor = scale_to_height;} P111;
+bitmap { filename = "AM14ANS.jpg"; height = 600; scale_factor = scale_to_height;} P112;
+bitmap { filename = "AM21ANS.jpg"; height = 600; scale_factor = scale_to_height;} P113;
+bitmap { filename = "AM22ANS.jpg"; height = 600; scale_factor = scale_to_height;} P114;
+bitmap { filename = "AM23ANS.jpg"; height = 600; scale_factor = scale_to_height;} P115;
+bitmap { filename = "BM24ANS.jpg"; height = 600; scale_factor = scale_to_height;} P116;
+bitmap { filename = "BM25ANS.jpg"; height = 600; scale_factor = scale_to_height;} P117;
+bitmap { filename = "BM26ANS.jpg"; height = 600; scale_factor = scale_to_height;} P118;
+bitmap { filename = "BM28ANS.jpg"; height = 600; scale_factor = scale_to_height;} P119;
+bitmap { filename = "AM35ANS.jpg"; height = 600; scale_factor = scale_to_height;} P120;
+
+}pic;

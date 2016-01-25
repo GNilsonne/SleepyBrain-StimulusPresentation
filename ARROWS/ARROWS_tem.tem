@@ -1,0 +1,81 @@
+array{
+	bitmap { filename = "Maintain.jpg";} inst1;
+	bitmap { filename = "Upregulate.jpg";} inst2;
+	bitmap { filename = "Downregulate.jpg";} inst3;
+	}cue;
+	
+array{
+bitmap { filename = "1019.jpg"; width = 800; scale_factor = scale_to_width;} P1;
+bitmap { filename = "1200.jpg"; width = 800; scale_factor = scale_to_width;} P2;
+bitmap { filename = "1274.jpg"; width = 800; scale_factor = scale_to_width;} P3;
+bitmap { filename = "3071.jpg"; width = 800; scale_factor = scale_to_width;} P4;
+bitmap { filename = "3103.jpg"; width = 800; scale_factor = scale_to_width;} P5;
+bitmap { filename = "3230.jpg"; width = 800; scale_factor = scale_to_width;} P6;
+bitmap { filename = "3350.jpg"; width = 800; scale_factor = scale_to_width;} P7;
+bitmap { filename = "3400.jpg"; width = 800; scale_factor = scale_to_width;} P8;
+bitmap { filename = "6212.jpg"; width = 800; scale_factor = scale_to_width;} P9;
+bitmap { filename = "6550.jpg"; width = 800; scale_factor = scale_to_width;} P10;
+bitmap { filename = "9075.jpg"; width = 800; scale_factor = scale_to_width;} P11;
+bitmap { filename = "9183.jpg"; width = 800; scale_factor = scale_to_width;} P12;
+bitmap { filename = "9253.jpg"; width = 800; scale_factor = scale_to_width;} P13;
+bitmap { filename = "9414.jpg"; width = 800; scale_factor = scale_to_width;} P14;
+bitmap { filename = "9908.jpg"; width = 800; scale_factor = scale_to_width;} P15;
+bitmap { filename = "1271.jpg"; width = 800; scale_factor = scale_to_width;} P16;
+bitmap { filename = "1390.jpg"; width = 800; scale_factor = scale_to_width;} P17;
+bitmap { filename = "1932.jpg"; width = 800; scale_factor = scale_to_width;} P18;
+bitmap { filename = "3001.jpg"; width = 800; scale_factor = scale_to_width;} P19;
+bitmap { filename = "3016.jpg"; width = 800; scale_factor = scale_to_width;} P20;
+bitmap { filename = "3195.jpg"; width = 800; scale_factor = scale_to_width;} P21;
+bitmap { filename = "3220.jpg"; width = 800; scale_factor = scale_to_width;} P22;
+bitmap { filename = "6520.jpg"; width = 800; scale_factor = scale_to_width;} P23;
+bitmap { filename = "9181.jpg"; width = 800; scale_factor = scale_to_width;} P24;
+bitmap { filename = "9254.jpg"; width = 800; scale_factor = scale_to_width;} P25;
+bitmap { filename = "9413.jpg"; width = 800; scale_factor = scale_to_width;} P26;
+bitmap { filename = "9433.jpg"; width = 800; scale_factor = scale_to_width;} P27;
+bitmap { filename = "9560.jpg"; width = 800; scale_factor = scale_to_width;} P28;
+bitmap { filename = "9611.jpg"; width = 800; scale_factor = scale_to_width;} P29;
+bitmap { filename = "9901.jpg"; width = 800; scale_factor = scale_to_width;} P30;
+bitmap { filename = "1300.jpg"; width = 800; scale_factor = scale_to_width;} P31;
+bitmap { filename = "1310.jpg"; width = 800; scale_factor = scale_to_width;} P32;
+bitmap { filename = "2095.jpg"; width = 800; scale_factor = scale_to_width;} P33;
+bitmap { filename = "2811.jpg"; width = 800; scale_factor = scale_to_width;} P34;
+bitmap { filename = "3030.jpg"; width = 800; scale_factor = scale_to_width;} P35;
+bitmap { filename = "3060.jpg"; width = 800; scale_factor = scale_to_width;} P36;
+bitmap { filename = "3101.jpg"; width = 800; scale_factor = scale_to_width;} P37;
+bitmap { filename = "3120.jpg"; width = 800; scale_factor = scale_to_width;} P38;
+bitmap { filename = "3215.jpg"; width = 800; scale_factor = scale_to_width;} P39;
+bitmap { filename = "6415.jpg"; width = 800; scale_factor = scale_to_width;} P40;
+bitmap { filename = "9043.jpg"; width = 800; scale_factor = scale_to_width;} P41;
+bitmap { filename = "9301.jpg"; width = 800; scale_factor = scale_to_width;} P42;
+bitmap { filename = "9480.jpg"; width = 800; scale_factor = scale_to_width;} P43;
+bitmap { filename = "9910.jpg"; width = 800; scale_factor = scale_to_width;} P44;
+bitmap { filename = "9921.jpg"; width = 800; scale_factor = scale_to_width;} P45;
+bitmap { filename = "1610.jpg"; width = 800; scale_factor = scale_to_width;} P46;
+bitmap { filename = "2026.jpg"; width = 800; scale_factor = scale_to_width;} P47;
+bitmap { filename = "2104.jpg"; width = 800; scale_factor = scale_to_width;} P48;
+bitmap { filename = "2190.jpg"; width = 800; scale_factor = scale_to_width;} P49;
+bitmap { filename = "2358.jpg"; width = 800; scale_factor = scale_to_width;} P50;
+bitmap { filename = "2381.jpg"; width = 800; scale_factor = scale_to_width;} P51;
+bitmap { filename = "2393.jpg"; width = 800; scale_factor = scale_to_width;} P52;
+bitmap { filename = "2480.jpg"; width = 800; scale_factor = scale_to_width;} P53;
+bitmap { filename = "2570.jpg"; width = 800; scale_factor = scale_to_width;} P54;
+bitmap { filename = "5390.jpg"; width = 800; scale_factor = scale_to_width;} P55;
+bitmap { filename = "7036.jpg"; width = 800; scale_factor = scale_to_width;} P56;
+bitmap { filename = "7041.jpg"; width = 800; scale_factor = scale_to_width;} P57;
+bitmap { filename = "7491.jpg"; width = 800; scale_factor = scale_to_width;} P58;
+bitmap { filename = "7512.jpg"; width = 800; scale_factor = scale_to_width;} P59;
+bitmap { filename = "9360.jpg"; width = 800; scale_factor = scale_to_width;} P60;
+}pic;
+
+array{
+bitmap { filename = "rate.jpg"; width = 800; scale_factor = scale_to_width;} ;
+bitmap { filename = "rate1.jpg"; width = 800; scale_factor = scale_to_width;} ;
+bitmap { filename = "rate2.jpg"; width = 800; scale_factor = scale_to_width;} ;
+bitmap { filename = "rate3.jpg"; width = 800; scale_factor = scale_to_width;} ;
+bitmap { filename = "rate4.jpg"; width = 800; scale_factor = scale_to_width;} ;
+bitmap { filename = "rate5.jpg"; width = 800; scale_factor = scale_to_width;} ;
+bitmap { filename = "rate6.jpg"; width = 800; scale_factor = scale_to_width;} ;
+bitmap { filename = "rate7.jpg"; width = 800; scale_factor = scale_to_width;} ;
+} pic_skala;
+	
+	

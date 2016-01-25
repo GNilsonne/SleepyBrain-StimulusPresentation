@@ -1,0 +1,49 @@
+array{
+bitmap { filename = "f1_hand_n1.jpg"; width = 800; scale_factor = scale_to_width;} P1;
+bitmap { filename = "f1_hand_n2.jpg"; width = 800; scale_factor = scale_to_width;} P2;
+bitmap { filename = "f1_hand_n3.jpg"; width = 800; scale_factor = scale_to_width;} P3;
+bitmap { filename = "f1_hand_n4.jpg"; width = 800; scale_factor = scale_to_width;} P4;
+bitmap { filename = "f1_hand_n5.jpg"; width = 800; scale_factor = scale_to_width;} P5;
+
+bitmap { filename = "f2_hand_n1.jpg"; width = 800; scale_factor = scale_to_width;} P6;
+bitmap { filename = "f2_hand_n2.jpg"; width = 800; scale_factor = scale_to_width;} P7;
+bitmap { filename = "f2_hand_n3.jpg"; width = 800; scale_factor = scale_to_width;} P8;
+bitmap { filename = "f2_hand_n4.jpg"; width = 800; scale_factor = scale_to_width;} P9;
+bitmap { filename = "f2_hand_n7.jpg"; width = 800; scale_factor = scale_to_width;} P10;
+
+bitmap { filename = "m1_hand_n1.jpg"; width = 800; scale_factor = scale_to_width;} P11;
+bitmap { filename = "m1_hand_n2.jpg"; width = 800; scale_factor = scale_to_width;} P12;
+bitmap { filename = "m1_hand_n3.jpg"; width = 800; scale_factor = scale_to_width;} P13;
+bitmap { filename = "m1_hand_n4.jpg"; width = 800; scale_factor = scale_to_width;} P14;
+bitmap { filename = "m1_hand_n5.jpg"; width = 800; scale_factor = scale_to_width;} P15;
+
+bitmap { filename = "m2_hand_n1.jpg"; width = 800; scale_factor = scale_to_width;} P16;
+bitmap { filename = "m2_hand_n2.jpg"; width = 800; scale_factor = scale_to_width;} P17;
+bitmap { filename = "m2_hand_n3.jpg"; width = 800; scale_factor = scale_to_width;} P18;
+bitmap { filename = "m2_hand_n4.jpg"; width = 800; scale_factor = scale_to_width;} P19;
+bitmap { filename = "m2_hand_n5.jpg"; width = 800; scale_factor = scale_to_width;} P20;
+
+bitmap { filename = "f1_hand_q1.jpg"; width = 800; scale_factor = scale_to_width;} P21;
+bitmap { filename = "f1_hand_q2.jpg"; width = 800; scale_factor = scale_to_width;} P22;
+bitmap { filename = "f1_hand_q3.jpg"; width = 800; scale_factor = scale_to_width;} P23;
+bitmap { filename = "f1_hand_q4.jpg"; width = 800; scale_factor = scale_to_width;} P24;
+bitmap { filename = "f1_hand_q5.jpg"; width = 800; scale_factor = scale_to_width;} P25;
+
+bitmap { filename = "f2_hand_q1.jpg"; width = 800; scale_factor = scale_to_width;} P26;
+bitmap { filename = "f2_hand_q2.jpg"; width = 800; scale_factor = scale_to_width;} P27;
+bitmap { filename = "f2_hand_q3.jpg"; width = 800; scale_factor = scale_to_width;} P28;
+bitmap { filename = "f2_hand_q4.jpg"; width = 800; scale_factor = scale_to_width;} P29;
+bitmap { filename = "f2_hand_q7.jpg"; width = 800; scale_factor = scale_to_width;} P30;
+
+bitmap { filename = "m1_hand_q1.jpg"; width = 800; scale_factor = scale_to_width;} P31;
+bitmap { filename = "m1_hand_q2.jpg"; width = 800; scale_factor = scale_to_width;} P32;
+bitmap { filename = "m1_hand_q3.jpg"; width = 800; scale_factor = scale_to_width;} P33;
+bitmap { filename = "m1_hand_q4.jpg"; width = 800; scale_factor = scale_to_width;} P34;
+bitmap { filename = "m1_hand_q5.jpg"; width = 800; scale_factor = scale_to_width;} P35;
+
+bitmap { filename = "m2_hand_q1.jpg"; width = 800; scale_factor = scale_to_width;} P36;
+bitmap { filename = "m2_hand_q2.jpg"; width = 800; scale_factor = scale_to_width;} P37;
+bitmap { filename = "m2_hand_q3.jpg"; width = 800; scale_factor = scale_to_width;} P38;
+bitmap { filename = "m2_hand_q4.jpg"; width = 800; scale_factor = scale_to_width;} P39;
+bitmap { filename = "m2_hand_q5.jpg"; width = 800; scale_factor = scale_to_width;} P40;
+}pic;
